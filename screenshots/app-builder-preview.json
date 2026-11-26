@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Endless Runner",
+      "hasCanvas": true,
+      "bodyTextLen": 48,
+      "bodyTextHash": "6aaef381713fcee464c9f7c3a2fa5bebcf8eb807ed67dc1d8f20a94ed8efaa49",
+      "bodyTextPrefix": "ENDLESS RUNNER Never check out the recording Run",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Endless Runner",
+      "hasCanvas": true,
+      "bodyTextLen": 48,
+      "bodyTextHash": "6aaef381713fcee464c9f7c3a2fa5bebcf8eb807ed67dc1d8f20a94ed8efaa49",
+      "bodyTextPrefix": "ENDLESS RUNNER Never check out the recording Run",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

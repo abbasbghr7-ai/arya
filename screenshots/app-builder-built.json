@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Endless Runner",
+      "hasCanvas": true,
+      "bodyTextLen": 48,
+      "bodyTextHash": "6aaef381713fcee464c9f7c3a2fa5bebcf8eb807ed67dc1d8f20a94ed8efaa49",
+      "bodyTextPrefix": "ENDLESS RUNNER Never check out the recording Run",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Endless Runner",
+      "hasCanvas": true,
+      "bodyTextLen": 79,
+      "bodyTextHash": "2197804f4d5e4deb7f2954c06027b36ded9bc4514c30b5cf97afe366a5255151",
+      "bodyTextPrefix": "ENDLESS RUNNER Never check out the recording Run داره خیابون هخا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (48 -> 79 chars, hash mismatch)"
+  ]
+}

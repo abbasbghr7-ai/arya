@@ -1,0 +1,64 @@
+{
+  "target": "player",
+  "mode": "idle",
+  "prompt": "",
+  "role": "",
+  "input": "/workspace/assets/sprites/boy/kick/raw.png",
+  "threshold": 120,
+  "edge_threshold": 170,
+  "duration": 200,
+  "rows": 1,
+  "cols": 1,
+  "cell_size": 128,
+  "fit_scale": 0.85,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": false,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "idle-1"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        1408,
+        1408
+      ],
+      "component_mode": "largest",
+      "component_count": 7,
+      "selected_component_area": 228199,
+      "selected_component_bbox": [
+        352,
+        280,
+        1152,
+        984
+      ],
+      "crop_bbox": [
+        352,
+        280,
+        1152,
+        984
+      ],
+      "edge_touch": false,
+      "output_size": [
+        108,
+        95
+      ],
+      "paste_position": [
+        10,
+        16
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

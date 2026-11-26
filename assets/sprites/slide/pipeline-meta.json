@@ -1,0 +1,175 @@
+{
+  "target": "player",
+  "mode": "slide",
+  "prompt": "",
+  "role": "",
+  "input": "/workspace/artifacts/imagine_images/291bf1d0-2e4b-47b9-b16e-24d332880f1d.jpg",
+  "threshold": 130,
+  "edge_threshold": 165,
+  "duration": 200,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 320,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "slide-1",
+    "slide-2",
+    "slide-3",
+    "slide-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        704,
+        704
+      ],
+      "component_mode": "largest",
+      "component_count": 17,
+      "selected_component_area": 78400,
+      "selected_component_bbox": [
+        105,
+        168,
+        556,
+        537
+      ],
+      "crop_bbox": [
+        105,
+        168,
+        556,
+        537
+      ],
+      "edge_touch": false,
+      "output_size": [
+        184,
+        150
+      ],
+      "paste_position": [
+        68,
+        142
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        704,
+        0,
+        1408,
+        704
+      ],
+      "component_mode": "largest",
+      "component_count": 19,
+      "selected_component_area": 72200,
+      "selected_component_bbox": [
+        9,
+        298,
+        651,
+        543
+      ],
+      "crop_bbox": [
+        9,
+        298,
+        651,
+        543
+      ],
+      "edge_touch": false,
+      "output_size": [
+        262,
+        100
+      ],
+      "paste_position": [
+        29,
+        192
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        704,
+        704,
+        1408
+      ],
+      "component_mode": "largest",
+      "component_count": 6,
+      "selected_component_area": 71622,
+      "selected_component_bbox": [
+        27,
+        249,
+        643,
+        509
+      ],
+      "crop_bbox": [
+        27,
+        249,
+        643,
+        509
+      ],
+      "edge_touch": false,
+      "output_size": [
+        251,
+        106
+      ],
+      "paste_position": [
+        34,
+        186
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        704,
+        704,
+        1408,
+        1408
+      ],
+      "component_mode": "largest",
+      "component_count": 18,
+      "selected_component_area": 89722,
+      "selected_component_bbox": [
+        62,
+        98,
+        576,
+        511
+      ],
+      "crop_bbox": [
+        62,
+        98,
+        576,
+        511
+      ],
+      "edge_touch": false,
+      "output_size": [
+        210,
+        168
+      ],
+      "paste_position": [
+        55,
+        124
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}
